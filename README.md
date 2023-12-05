@@ -7,7 +7,7 @@ Full Stack Web Developer
 a Full Stack Web Developer and currently a student. I'm also actively seeking freelance work opportunities. I specialize in HTML, CSS, JavaScript, PHP, and MySQL
 
 * 🌍  I'm based in Lop Buri , Thailand
-* 🖥️  See my portfolio at [My Pots](http://http://127.0.0.1:5500/index.html)
+* 🖥️  See my portfolio at [My Pots](http://http://Akarapoom.github.io)
 
 ### Skills
 
